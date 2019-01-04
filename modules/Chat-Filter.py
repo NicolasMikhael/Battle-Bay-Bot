@@ -1,6 +1,6 @@
 
 
-chat_filter = ["SHIT", "FUCK", "ASS", "pineapple"]
+chat_filter = ["SHIT", "FUCK", "ASS", "pineapple", "FAG"]
 bypass_list = []
 
 @bot.event
